@@ -1,0 +1,20 @@
+.load_bar {
+    background-color: #f3f3f3;
+    border-radius: 3px;;
+    height: 25px;
+}
+.blue_bar {
+    background-color: blue;
+    display: block;
+    height: 25px;
+    text-align: center;
+    width: 0%;
+}
+
+.green_bar {
+    background-color: green;
+}
+
+.red_bar {
+    background-color: red;
+}

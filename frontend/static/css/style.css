@@ -1,0 +1,36 @@
+body {
+    background-color: #FCFAF5;
+}
+
+main {
+    padding: 0px 20px;
+}
+
+.nav-index {
+    background-color: #FCFAF5;
+    top: 0;
+}
+
+.nav-main {
+    transition: display 0.5s;
+}
+
+@media (max-width: 768px) {
+    .player-learning {
+        width: 40rem;
+        height: 28rem;
+    }
+    
+} 
+@media (max-width: 640px) {
+    .player-learning {
+        width: 20rem;
+        height: 19rem;
+    }
+    
+} 
+.card-learn-nav:hover {
+    cursor: pointer;
+    
+
+}
